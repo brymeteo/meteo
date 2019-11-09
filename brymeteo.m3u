@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:31,vid--431245485-59f3a1b7-1eb7-44ab-8f07-f32507120e63-640x360.mp4
+#EXTVLCOPT:network-caching=1000
+https://d3rd3i2xz0wkmj.cloudfront.net/7e/b6/vid--431245485-59f3a1b7-1eb7-44ab-8f07-f32507120e63-640x360.mp4
+#EXTINF:9879,4958db746c6941ba39b8f4682182d31a.playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+https://slave11.hdload.space/hls/4958db746c6941ba39b8f4682182d31a/4958db746c6941ba39b8f4682182d31a.playlist.m3u8
