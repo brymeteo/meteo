@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:5242,1677a4b2f197d2-20_0.m3u8
+#EXTVLCOPT:network-caching=1000
+https://vod08.msf.cdn.mediaset.net/farmunica/2018/12/294309_1677a4b2f197d2/1677a4b2f197d2-20_0.mp4
