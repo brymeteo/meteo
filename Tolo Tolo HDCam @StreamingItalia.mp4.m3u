@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:0,sd_no_mpl.m3u8
+#EXTVLCOPT:network-caching=1000
+https://vod02.msf.cdn.mediaset.net/farmunica/2020/01/529313_16fa822b4c589c/hlsrc/sd_no_mpl.m3u8
