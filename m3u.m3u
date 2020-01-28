@@ -1,4 +1,0 @@
-#EXTM3U
-#EXTINF:0,localhost:8080
-#EXTVLCOPT:network-caching=1000
-http://localhost:8080
