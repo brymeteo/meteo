@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:1545,7813345_1800.mp4
-#EXTVLCOPT:network-caching=1000
-http://creativemedia3.rai.it/Italy/podcastcdn/junior/Rai_Gulp/Barbarossa/7813345_1800.mp4
-#EXTINF:8502,nhzybavonwriafhzcoht.mp4
-#EXTVLCOPT:network-caching=1000
-https://hinlpxtpsr.mystream.io/k27ishcofgbizyprn3crk2q7sy3obfzxysno77kpmwyuesbu2wc56vcyitaa/nhzybavonwriafhzcoht.mp4
